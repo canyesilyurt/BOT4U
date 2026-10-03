@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /login
+Disallow: /auth/
+Disallow: /widget/
+Disallow: /widgets
+Disallow: /alerts
+Disallow: /activity
+Disallow: /bot
+Disallow: /commands
+Disallow: /timers
+Disallow: /giveaway
+Disallow: /loyalty
+Disallow: /billing
+Disallow: /profile
+Disallow: /studio
+Disallow: /docs
+Disallow: /user/
+
+Sitemap: https://bot4u.online/sitemap.xml

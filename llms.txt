@@ -1,0 +1,31 @@
+# BOT4U
+
+> BOT4U is a Turkish and English dashboard for Kick streamers: chat commands, moderation, OBS alerts and widgets, loyalty, giveaways and streaming tools.
+
+Canonical website: https://bot4u.online/
+Support: hello@bot4u.online
+
+## Public pages
+
+- [Kick Bot and OBS Tools for Streamers](https://bot4u.online/): Manage your Kick chat bot, moderation, OBS alerts, widgets, loyalty and giveaways in one BOT4U dashboard.
+- [About Us](https://bot4u.online/about): Learn about BOT4U and its chat, streaming and community management tools for Kick streamers.
+- [Kick Bot and Widget Features](https://bot4u.online/features): Explore chat commands, moderation, TTS, OBS alerts, goals, emoji widgets, loyalty and giveaways.
+- [Contact and Support](https://bot4u.online/contact): Contact hello@bot4u.online for help with your BOT4U account, setup and streaming tools.
+- [Frequently Asked Questions](https://bot4u.online/faq): Find answers about BOT4U setup, Kick accounts, bot permissions, OBS widgets and Supporter membership.
+- [Privacy Policy](https://bot4u.online/privacy): Read how BOT4U handles account data, sessions, cookies and data usage.
+- [Payment and Supporter Policy](https://bot4u.online/payment-policy): Read the BOT4U payment policy and Supporter access based on Kick channel subscriptions.
+- [Terms of Use](https://bot4u.online/terms): Read the terms for using BOT4U services and your account responsibilities.
+
+## Product facts
+
+- Viewers earn channel-specific BOT4U loyalty points and XP-based levels. These are separate from Kick channel points.
+- OBS widgets include alerts, subscriber/follower/KICKs goals, chat overlay, emoji combo, screen emojis, event labels, viewer count and subathon.
+- Chat tools include custom and built-in commands, TTS, moderation, timers and giveaways.
+- Public widget themes are available to everyone. Feature availability and limits can be configured by administrators; consult the current in-app plan comparison.
+- Optional Supporter access is based on subscriptions to https://kick.com/BOT4U. Do not describe this as a mandatory Stripe payment.
+- Login uses Kick OAuth. Dashboard, administration, OAuth callbacks and private widget URLs are not public documentation. Never reproduce widget tokens or account credentials.
+- Turkish and English share the same public URLs; the language selector controls displayed content.
+
+## Türkçe özet
+
+BOT4U; Kick yayıncıları için sohbet botu, moderasyon, OBS widget’ları, uyarılar, sadakat ve çekiliş araçları sunar. Kanal bazındaki BOT4U puanları ve XP seviyeleri Kick kanal puanlarından ayrıdır. Destekçi erişimi BOT4U Kick kanal aboneliğine dayanır. Güncel özellik hakları paneldeki plan karşılaştırmasından kontrol edilmelidir.

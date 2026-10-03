@@ -1,0 +1,6 @@
+import{d as l,y as i,l as c,o as d,c as g,b as h,u as r,a as s,Z as p,h as f,a8 as k,x as m,B as v,S as y}from"./index-DtI7OVkm.js";import{c as _}from"./createLucideIcon-DnM0IEiX.js";/**
+ * @license lucide-vue-next v0.468.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const L=_("LanguagesIcon",[["path",{d:"m5 8 6 6",key:"1wu5hv"}],["path",{d:"m4 14 6-6 2-3",key:"1k1g8d"}],["path",{d:"M2 5h12",key:"or177f"}],["path",{d:"M7 2h1",key:"1t2jsx"}],["path",{d:"m22 22-5-10-5 10",key:"don7ne"}],["path",{d:"M14 18h6",key:"1m8k6r"}]]),b={class:"language-select"},B=["value","aria-label","disabled"],M=l({__name:"LanguageSelect",setup(S){const n=i(),o=c(),a=f(!1);async function u(t){const e=t.target.value;if(!(e!=="tr"&&e!=="en")){if(!n.user){k(e);return}a.value=!0;try{await m.saveLanguage(e),n.user.language=e,v(e,!0)}catch{o.show(y("Dil kaydedilemedi. Tekrar dene."),"error")}finally{a.value=!1}}}return(t,e)=>(d(),g("label",b,[h(r(L),{size:16,"aria-hidden":"true"}),s("select",{value:r(p),"aria-label":t.$t("Dil"),disabled:a.value,onChange:u},[...e[0]||(e[0]=[s("option",{value:"tr"},"Türkçe",-1),s("option",{value:"en"},"English",-1)])],40,B)]))}});export{M as _};
